@@ -1,5 +1,5 @@
 Professional Summary:
-My name is Alexa, and I am a dedicated real estate agent based in New Jersey, currently pursuing a comprehensive software engineering education through the TripleTens bootcamp. This program equips me with a diverse range of technical skills in Full Stack Development, including:
+My name is Alexa, and I am currently pursuing a comprehensive software engineering education through the TripleTens bootcamp. This program equips me with a diverse range of technical skills in Full Stack Development, including:
 
 Front-End Technologies: HTML5, CSS3 (Flexbox, Grid Layout, BEM), JavaScript/JSX, DOM manipulation, and responsive design techniques (Media Queries, Transitions).
 
